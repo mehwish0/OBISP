@@ -1,2 +1,2 @@
 # OBISP
-Oasis InfoByte's Internships Tasks as Data Analyst
+Oasis InfoByte's Internships Projects as Data Analyst
